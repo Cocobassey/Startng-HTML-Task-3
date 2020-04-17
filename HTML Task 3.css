@@ -1,0 +1,74 @@
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #03254c;
+    text-align: center;
+    border-top: 1px solid gold;
+    border-bottom: 1px solid gold;
+}
+
+img {
+    width: 250px;
+    height: 300%;
+}
+
+h1{
+    color: gold;
+    margin: 10px 10px;
+    padding: 10px 5px 10px 5px;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#Data1 {
+    font-family: sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    position: relative;
+    top: 0;
+    left: 40%;
+    line-height: 10px;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.name{
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+#Data2{
+    font-family: sans-serif;
+    color: #03254c;
+    padding: 5px;
+    margin: 5px 10px;
+}
+
+footer {
+    background-color: #03254c;
+    color: white;
+    padding: 10px;
+    margin: 5px 0;
+    border-top: 1px solid gold;
+    border-bottom: 1px solid gold;
+}
+
+footer a:link{
+    color: gold;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: white; 
+}
+
+.date{
+    padding: 2px;
+    margin: 2px;]
+}
